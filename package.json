@@ -1,0 +1,19 @@
+{
+  "name": "iptv-bot-pro",
+  "version": "1.0.0",
+  "description": "Bot IPTV profissional com Dialogflow, Gemini, TMDB e SQLite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
